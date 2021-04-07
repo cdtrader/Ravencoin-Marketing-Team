@@ -16,7 +16,7 @@
 
 <img src="/assets/images/git-repo-images/discord.jpeg" alt="discord-logo"/><a href="https://discord.com/invite/jn6uhur">Join Us On Discord</a>
 
-<img src="/assets/images/git-repo-images/github.png" alt="github-logo"/><a href="https://github.com/cdtrader/Ravencoin-Marketing-Team">Join Us On GitHub</a>
+<img src="/assets/images/git-repo-images/github-icon.png" alt="github-logo"/><a href="https://github.com/cdtrader/Ravencoin-Marketing-Team">Join Us On GitHub</a>
 
 <img src="/assets/images/git-repo-images/facebook.png" alt="facebook-logo"/><a href="https://www.facebook.com/groups/RavenCoinNest">Join Us On Facebook</a>
 
