@@ -3,7 +3,7 @@
 <img src="/assets/images/git-repo-images/ravencoin-marble.png" alt="ravencoin-marble-logo"/>
 
 <blockquote>
-<p>Welcome to the Ravencoin Marketing Team! Here you will discover everything that is going on with the marketing efforts for the Ravencoin community. Please feel free to reach out to us if you would like to become involved in helping to improve the education and marketing efforts for the Ravencoin Cryptocurrency. We look forward to showing working with you.</p>
+<p>Welcome to the Ravencoin Marketing Team! Here you will discover everything that is going on with the marketing efforts for the Ravencoin community. Please feel free to reach out to us if you would like to become involved in helping to improve the education and marketing efforts for the Ravencoin Cryptocurrency.</p>
 </blockquote> 
 
 ### Ravencoin Marketing Team - Current Members
