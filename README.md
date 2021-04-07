@@ -22,8 +22,8 @@
 
 <img src="/assets/images/git-repo-images/mailing-list.png" alt="mailing-list-logo"/><a href="https://ravencoin.org/updates/">Sign Up For Our Mailing List</a>
 
-<img src="/assets/images/git-repo-images/ravencoin-foundation.png" alt="ravencoin-marble-logo"/><a href="https://ravencoin.foundation/">Learn More About The Ravencoin Foundation</a>
-
 <img src="/assets/images/git-repo-images/telegram.png" alt="telegram-logo"/><a href="https://t.me/RavencoinDev">Join Us On Telegram</a>
 
 <img src="/assets/images/git-repo-images/trello.jpeg" alt="trello-logo"/><a href="https://trello.com/invite/b/JMy6pyUM/b04b2440d8c805a9a3584feed3c8800d/ravencoin-marketing">Join Us On Trello</a>
+
+<img src="/assets/images/git-repo-images/ravencoin-foundation.png" alt="ravencoin-marble-logo"/><a href="https://ravencoin.foundation/">The Ravencoin Foundation</a>
