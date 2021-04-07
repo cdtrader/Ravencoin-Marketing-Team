@@ -1,0 +1,616 @@
+[NakedApples]
+Ok let me know when you are all here
+
+[CDTrader]
+Hi
+
+[[DopeMedic]]
+Have another call coming up shortly, but will stick around for as long as I can
+
+[NakedApples]
+Perfect
+
+[OMG_Ketchup]
+Walking my dog so I dont have service but I'll jump on in a sec.
+
+[NakedApples]
+Ok so i was going over with omg
+We need 3 goals. Awareness
+
+[OMG_Ketchup]
+3 OKRs
+Awareness, increased assets under management, and I forget the third
+
+[NakedApples]
+Nft
+
+[OMG_Ketchup]
+We should define what they mean, how to measure them, and figure out how to improve them.
+Nft partnerships would fall under increased assets under management
+So why dont we start with the first two and maybe we will come to a third
+
+[NakedApples]
+OKRs are the goals. Do you have any recommendations for methods on how to achieve
+
+[OMG_Ketchup]
+Well let's start with increasing awareness first rifht cuz that will help with any other gos
+Goals
+What is awareness in the first place?
+
+[OMG_Ketchup]
+Positice mentions on social media?
+Increased trading volume?
+Specific influencer advocates?
+
+[[DopeMedic]]
+There's several levels to this as it relates to functionality of RVN
+
+[CDTrader]
+Awareness is pretty broad spectrum. It can range from as little to knowing that ravencoin is a thing that exists to everything that ravencoin can do.
+
+[[DopeMedic]]
+^^^
+
+[OMG_Ketchup]
+Ok so let's be totally up front about this
+The real goal of everything is to increase the price of ravencoin so we all get rich right?
+
+[CDTrader]
+lol
+
+[S1LV4-]
+No
+
+[[DopeMedic]]
+Not necessarily.
+
+[OMG_Ketchup]
+We all have some and that's what we want right?
+Or at least that's the main side effect of it?
+
+[[DopeMedic]]
+There's other things of value at play here imo
+
+[NakedApples]
+I mean price oncrease is great but it has to come with substance
+
+[[DopeMedic]]
+At the level of personal values
+Price is important too, but other things are motivating me
+
+[OMG_Ketchup]
+Of course but like this is xapitism and our time is money
+Capitalism*
+
+[CDTrader]
+I would say that making ravencoin the best cryptocurrency out there and the most widely adopted option is a primary goal. Increasing the price so we all get rich is a bi-product of widespread adoption and project success.
+
+[OMG_Ketchup]
+We all got Bill's so that's why I'm here anyway
+
+[[DopeMedic]]
+Our motivations are stacked at very least, if not on the same plane
+
+[OMG_Ketchup]
+I love crypto and all of the promises it has for society but at the end of the day I just love watching those numbers go up
+
+[NakedApples]
+As long as you contribute... motivation is not an issue here
+
+[OMG_Ketchup]
+Well it speaks to awareness
+We are figuring out goals
+
+[[DopeMedic]]
+Exactly. So awareness being the focus---OKRs
+^^
+
+[OMG_Ketchup]
+Right so how are we defining awareness as a goal of this projext
+And then as a function of that, how do we measure it
+And then we figure out how to improve those measurements
+
+[[DopeMedic]]
+Functionality and potential (and current) use cases
+ 
+[NakedApples]
+ that lasted a few seconds.
+
+[NakedApples]
+Sorry about the call
+
+[[DopeMedic]]
+ 
+Happy to talk instead of type too
+Up to the group
+
+[NakedApples]
+Keep it tect
+
+[CDTrader]
+Can't talk right now.
+
+[NakedApples]
+I hit it by accident
+
+[[DopeMedic]]
+Roger
+
+[CDTrader]
+I have several things going on at once and its noisy here.
+
+[S1LV4-]
+Okay so awareness is measured by audience type and engagement metrics. We should compile a list of target audiences and then build funnels for them. We measure success by reviewing engagement of each audience within those funnels. We optimize by closing up holes in the funnel and reviewing audience builds. We can take initiative with a collaborative google doc.
+
+[CDTrader]
+Defining awareness is a multifaceted issue. I would say trading volume across popular exchanges, social media followers, strategic alliances, community development interactions, and successful outreach programs are good places to start.
+
+[NakedApples]
+Im currently working on outreach. Kind of old school cold calling by contacting different businesses to get the pulse of which industries have the most interest in order to better focus marketing objectives
+
+[OMG_Ketchup]
+Hold on sorry my dog got off leash I just chased him like 2 blocks
+Sorry
+
+[CDTrader]
+lol no worries.
+
+[NakedApples]
+Its all good. So omg ketchup we have a couple definitions of awareness
+And to everyone... any methods or ideas on how to start tacling tjose aspects
+Someone mentioned to me the NBA and NFT is there a way to connect rvn to national sports/ trading cards?
+
+[OMG_Ketchup]
+Call again
+
+[NakedApples]
+Text
+
+[OMG_Ketchup]
+Ok
+
+[NakedApples]
+Call was by accident
+
+[CDTrader]
+Marketing materials is going to ease the barrier to entry in accomplishing these goals. Video commercials can go a long way towards educating people on everything RVN can do. Also makes outreach programs significantly easier when you have a solid press kit that answers everyone's questions before they ask them.
+
+[OMG_Ketchup]
+How do we measure if those are helping?
+Like we do the kit, how do we know it does anything
+Is it increased mentions on social?
+Mainstream press?
+
+[CDTrader]
+Depends on the application. If it is social media link tracking the views will help you to gauge engagement rates. If it is strategic alliances, then whether or not we closed the deal would be measure of success. Taking a baseline of the average community involvement numbers before the marketing campaign and tracking the increase in numbers of new developers / community supporters is another. The outreach programs would depend on the specific details and targeted goals of what that program seeks to accomplish.
+I think assessing the overall current state of the project to get a pulse on where we are at all around will give us a better view of the lay of the land.
+As well as which areas of focus we can improve upon.
+
+[[DopeMedic]]
+Need target audiences to build those campaigns around
+
+[OMG_Ketchup]
+Strategic alliances might be another objective I feel like it doesnt really mesh w awareness
+
+[CDTrader]
+I agree.
+
+[OMG_Ketchup]
+Community involvement might be a good key result and we can measure that easily
+
+[NakedApples]
+I can speak for outreach since Im already doing it.  My current goal is to discover interest among industries
+
+[OMG_Ketchup]
+Does the press kit lead to more community involvement?
+I'm trying to be as direct as possible in defining the goals and what they mean, so I'd like to avoid being vague if we can.
+I feel like increased social media mentions, increased contributor activity on the project, and new members in the discord might be results we could look at
+
+[CDTrader]
+It depends on the individual viewing it. Press kits will be good for news reporters / writers / influencers to have everything they need to accurately portray the project. They are also extraordinarily useful in establishing strategic alliances.
+
+[OMG_Ketchup]
+All news is on social anyway and since the drive engagement with the topics we can just monitor engagement from social channels and try to improve that
+Invest in the channels that are already driving it, and investigate the ones that arent
+
+[CDTrader]
+You could spend hours talking about the project, or give them a file that has everything they need in it to understand it inside and out and share it with people to review at their own pace.
+
+[OMG_Ketchup]
+We can also include number of influencers or specific video count under social engagement KPId
+KPIs
+Ok cool, so we have our first OKR, and we can come up with KPIs for it later
+Cuz I wanna move the meeting forward cuz I also have other shit to do today
+
+[CDTrader]
+There are many key performance indicators to keep track of. Which services / software should we use to keep track of them all.
+Since we are on a shoestring / non-existent budget we are restricted in what we can utilize at the moment.
+
+[OMG_Ketchup]
+Well, those are certainly helpful, but KPIs are executive level data so we dont wanna get bogged down on the minutiae
+Our first project toward the awareness goal is the press kit. Achievable in the short term, small investment, and we can see how it pays off.
+
+[NakedApples]
+Agreed
+
+[CDTrader]
+Agreed
+
+[[DopeMedic]]
+Sounds good to me.
+
+[OMG_Ketchup]
+Second goal is increased assets under management, right? More use of the platform for it's intended goal.
+We can brand that however we want, but how are we going to define it?
+Obviously, total assets created per day or whatever, sure. I also think we should work on adding nft marketplaces that use ravencoin
+That's a good early stage goal, but obviously as winners and losers emerge it will become less important
+
+[NakedApples]
+@[S1LV4-] nft
+
+[OMG_Ketchup]
+
+What's another thing related to use of the platform that we might want to improvee?
+Novel applications of the platform in new or existing products?
+
+There is a RVN NFT marketplace in the works
+
+[CDTrader]
+I would love to see improvements in visual aesthetics of the software.
+
+[S1LV4-]
+2-3 months max
+
+[[DopeMedic]]
+Use of the platform is still being discovered. Specific use cases the lead devs have in mind is tokenization of securities and settlement.
+
+[OMG_Ketchup]
+Partnerships with for profit companies?
+Adoption into existing marketplaces?
+
+[[DopeMedic]]
+https://raven.wiki/w/Ravencoin_Wiki
+List of projects already running
+
+[OMG_Ketchup]
+Sure but everybody and their mom is about to be building nft marketplaces
+Its gonna be a gold rush, and we want as many of them as possible to use raven
+
+[CDTrader]
+One thing that we are going to run into is that we will have to be officially allowed to become representatives of the ravencoin foundation. Otherwise we are just a bunch of random people who like ravencoin.
+
+[NakedApples]
+^^^^
+[S1LV4-]
+Thats fine right
+
+[OMG_Ketchup]
+Maybe we community source some tutorials on using raven to mint nfts in popular programming languages
+
+[NakedApples]
+Im working on it
+We have to keep in mind we are offically representing rvn
+Its decentralized
+
+[CDTrader]
+Tutorials and educational materials do go a long way.
+Those are cheap and easy enough to create if we have volunteers who can do screen capture videos of the process and can write documentation.
+
+[OMG_Ketchup]
+I mean we could also talk to university professors that are teaching courses on blockchain or distributed applications to use ravencoin as am example
+
+[NakedApples]
+Foundation backing would be what we need for advancing marketing beyond free work
+
+[CDTrader]
+Asking the community who is up for those tasks right now is a good way to get started.
+
+[OMG_Ketchup]
+And the tutorials could work toward those educational connections
+I'm even thinking simpler than the videos, just like simple getting started with ravencoin, nfts with ravencoin, etc, super simple stuff
+Theres also something to be said for creating general crypto and asset learning materials for the awareness okr, which might be in the press kit but idk
+But those are not part of the OKR they are projects to help meet the OKRs
+
+[CDTrader]
+If we do become official representatives of the foundation I can potentially use my contacts at my old college to get a contest going for a video commercial series. Students would be able to compete with each other for producing class and provide several videos that we can judge and utilize for marketing campaigns. Aside from the associated costs of production, we would only be responsible for the advertising related costs if we wanted to promote them outside of the press kit and free social media.
+
+[OMG_Ketchup]
+So what are the key results for the Using The Platform OKR?
+
+[CDTrader]
+They would essentially produce the videos for free and have access to actors, soundstages, and post production.
+
+[OMG_Ketchup]
+Yeah that's a tough ask
+I took some.video classes in college, the quality of those videos will be... specific.
+
+[CDTrader]
+Not really. I've hired a bunch of students from the college and have a good relationship with their career development department.
+
+[OMG_Ketchup]
+Sure I mean anything is worth a shot
+
+[CDTrader]
+Whether or not the contest is launched will depend on the producing course director.
+
+[OMG_Ketchup]
+We are bootstrapping here so I'm into it
+
+[CDTrader]
+Full Sail University in the Orlando area.
+
+[OMG_Ketchup]
+Oh they're good actually
+
+[CDTrader]
+They have multi-million dollar soundstages, state of the art equipment, and their program is pretty solid.
+
+[OMG_Ketchup]
+I wish I went there lol
+  
+[[DopeMedic]]
+I can start with this once we have a target audience for a campaign
+
+[OMG_Ketchup]
+Yeah we need real specifics here
+Tbat will definitely be out of scope for this meeting
+So let's get back to the main goal
+
+[[DopeMedic]]
+I have to take off shortly, but happy to lay some of the foundation here
+
+[OMG_Ketchup]
+What do we want to improve on as far as using the platform?
+
+[CDTrader]
+Low hanging fruit is definitely educational videos created by volunteer community members.
+That can be done with no money.
+
+[[DopeMedic]]
+I have all the software necessary
+
+[OMG_Ketchup]
+Ok but that's a project what's the key result
+
+[[DopeMedic]]
+Exactly. Happy to move when the target and metrics are set.
+
+[OMG_Ketchup]
+It sounds like those go to awareness, not so much using the platform
+
+[CDTrader]
+Increased development of the project. Utilization of the ravencoin wallets. As well as increasing the amount of ravencoin nodes which will improve the network.
+Showing people how to get started with ease whether it is development, or ravencoin use increases awareness.
+and the platform
+
+[OMG_Ketchup]
+So let's say we want to increase the amount of community contributions to the github? Increase the overall number of ravencoin wallets in existence? And improve the quality (? Define quality) of the network
+
+[CDTrader]
+Transaction speeds under heavy loads.
+
+[[DopeMedic]]
+Quality of network could be # of nodes running
+
+[OMG_Ketchup]
+That might actually be our third objective tbh
+Improve the network
+So
+Awareness, increased use of the network, and improve the network itself
+Excellent.
+
+[NakedApples]
+I can bring up questions about nodes to the mining  community and development team on rvn
+
+[[DopeMedic]]
+Alright, gotta run. Cheers everyone. Will come here with updates/questions
+
+[CDTrader]
+Take care and stay awesome [[DopeMedic]]
+
+[OMG_Ketchup]
+I'm gonna go over this and just provide the 3 OKRs
+
+[[DopeMedic]]
+:pray: Likewise.
+
+[NakedApples]
+Thank you dope
+
+[OMG_Ketchup]
+As bulletpounts
+
+[NakedApples]
+Appreciate your time
+
+[OMG_Ketchup]
+I appreciate you guys
+
+[NakedApples]
+Ok so lets get a bullet point list together
+
+[CDTrader]
+Maybe we should create a git repository specifically for marketing efforts.
+Or does one already exist?
+
+[OMG_Ketchup]
+Maybe a trello board?
+
+[CDTrader]
+That way we can keep track of everything and keep it all decentralized in nature.
+I have no idea what trello is. I'd have to look into it.
+
+[OMG_Ketchup]
+Trello is phenomenal I'll give u guys a link in a sec
+I'll create a ravencoin marketing team
+
+[CDTrader]
+Paid, or free?
+
+[NakedApples]
+I believe its free
+
+[CDTrader]
+Good stuff
+
+[OMG_Ketchup]
+It is
+
+[CDTrader]
+I've got too many paid services right now for me to want to pay for yet another one lol.
+
+[OMG_Ketchup]
+Nah u good
+I wouldnt suggest q paid option
+
+[CDTrader]
+What about using GIT + Trello + Discord. GIT would keep track of everything and make it easier for people to join the marketing team. Trello would give us a place to work in the moment. Discord gives us instant communication.
+
+[NakedApples]
+This is a essential a community effort. I will start a marketing donation wallet or if one of you two want to manage/create it lmk. This way we can have the community actively participate in marketing
+
+[CDTrader]
+I'd feel more comfortable accepting money as an official representative of the foundation. Otherwise I am just some random person taking money. Which I am fine doing, but still would feel funny about it lol.
+
+[NakedApples]
+I will deal with the foundation. The donation wallet will just emphasize our point to the foundation and community. It eill be a metric to show the foundation how important marketing is, and how they need to get involved
+
+[CDTrader]
+Sounds good to me.
+
+[S1LV4-]
+I dont think we should utilize donations
+
+[NakedApples]
+Why not?
+
+[CDTrader]
+Marketing is honestly the 2nd most important thing in my opinion. You can have the best product in the world, but if no one knows about it and uses it, then it doesn't mean shit.
+
+[S1LV4-]
+It takes away from potential dev contributions, mainly
+
+[CDTrader]
+I think that not having some money from donations dedicated to marketing is risky.
+
+[NakedApples]
+Foundation already has auto funding by taking a fee
+
+[S1LV4-]
+Have a donation address that isnt promoted and held with multi sig, is fine
+
+[CDTrader]
+Maybe giving people the option to choose where their donations are allocated to is a great option.
+That way you give the people the choice of where the money gets spent.
+
+[S1LV4-]
+The white paper isnt finished and we are asking to put funds in marketing? Doesnt sit right with me
+But i get your points
+
+[CDTrader]
+Even percentage allocation options. Like I am donating 100 dollars. I want 50% to development 10% to outreach and 40% to marketing.
+Everyone has different opinions on how the donations should be spent. If we are truly decentralized then we should let the people decide.
+
+[NakedApples]
+Exactly it gives more power to the community
+Honestly the current rvn donation wallet.... no one knows where those funds actually go
+
+[CDTrader]
+Hookers and beer.
+:wink:
+j/k lol
+
+[NakedApples]
+Tron's lambo
+
+[CDTrader]
+Personally I'd rather buy the new corvette and 100 acres of land for the same price as a lambo.
+
+[NakedApples]
+Lol land for sure.... ok so lets wrap up.
+Bullet points
+We need volunteers who can do screen capture videos of the process and can write documentation.
+
+[CDTrader]
+Getting the marketing workspaces up and running. [OMG_Ketchup] is working on trello. I'll create a git repository and load it up with what we talked about today in the meeting.
+
+[NakedApples]
+Low hanging fruit is definitely educational videos created by volunteer community members.
+Ok
+Agreed
+I will find out about nodes from the dev team
+Once trello is up i will outline todays meeting on there
+We should plan to meet weekly or bi weekly
+
+[CDTrader]
+Hmm... I can do weekly meetings right now.
+Except not on the weekends.
+
+[NakedApples]
+As can i. Preferred time day?
+
+[CDTrader]
+After 1 PM before 5:30 PM
+
+[NakedApples]
+Ok so lets make it Wednesday going forward at 4pm? Sound good
+
+[CDTrader]
+Sounds good to me.
+
+[NakedApples]
+I will have a marketing channel on rvn discord so its more fluid for community to come in and contribute
+
+[CDTrader]
+It is now in my phone as an alarm reminder :wink:
+Sounds good
+
+[NakedApples]
+Ok perfect
+We are adjourned. Thank you so much for everything. I believe we have a great start going on here and build on today going forward
+
+[CDTrader]
+No problem. Glad to be a part of helping the ravencoin community. Take care, stay awesome, and have a great day!
+
+[OMG_Ketchup]
+https://trello.com/invite/b/JMy6pyUM/b04b2440d8c805a9a3584feed3c8800d/ravencoin-marketing
+Trello
+Organize anything, together. Trello is a collaboration tool that organizes your projects into boards. In one glance, know what's being worked on, who's working on what, and where something is in a process.
+
+[[DopeMedic]]
+Thanks for setting up the Trello board.
+Will try to make Wednesday @ 4PM
+
+[NakedApples]
+Perfect. Hope to see you there
+
+[[DopeMedic]]
+What timezone?
+Setting a reminder now.
+
+[NakedApples]
+EST
+
+[[DopeMedic]]
+Cool. Thanks for getting the ball rolling @[NakedApples]!
+
+[OMG_Ketchup]
+Does that mean today at 4pm?
+
+[NakedApples]
+Next week
+
+[OMG_Ketchup]
+Okey dokey. Let's plan on defining specific ways of measuring whether what we are doing is working.
+If you cant measure it, you cant improve it.
+
+[NakedApples]
+Looks like there was an old band of rvn marketing ppl
+https://github.com/underdarkskies/Ravencoin-Marketing/
+GitHub
+underdarkskies/Ravencoin-Marketing
+Repository of all community assets. Contribute to underdarkskies/Ravencoin-Marketing development by creating an account on GitHub.
+Maybe we could use some of it
+
+[OMG_Ketchup]
+The memes are awful and github seems like a weird solution for this stuff but ima keep checking it out
