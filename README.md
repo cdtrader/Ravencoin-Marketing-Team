@@ -8,11 +8,11 @@
 
 ### Ravencoin Marketing Team - Current Members
 
-##### CDTrader - cdtrader@protonmail.com
-##### DopeMedic - "Email Address Needed"
-##### NakedApples - "Email Address Needed"
-##### OMG_Ketchup - "Email Address Needed"
-##### S1LV4 - "Email Address Needed"
+##### CDTrader: cdtrader@protonmail.com
+##### DopeMedic: "Email Address Needed"
+##### NakedApples: "Email Address Needed"
+##### OMG_Ketchup: "Email Address Needed"
+##### S1LV4-: "Email Address Needed"
 
 <img src="/assets/images/git-repo-images/discord.jpeg" alt="discord-logo"/><a href="https://discord.com/invite/jn6uhur">Join Us On Discord</a>
 
