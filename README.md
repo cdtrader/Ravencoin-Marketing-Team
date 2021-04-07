@@ -8,17 +8,17 @@
 
 ### Ravencoin Marketing Team - Current Members
 
-#### CDTrader - cdtrader@protonmail.com
-#### DopeMedic - "Email Address Needed"
-#### NakedApples - "Email Address Needed"
-#### S1LV4 - "Email Address Needed"
-#### OMG_Ketchup - "Email Address Needed"
+##### CDTrader - cdtrader@protonmail.com
+##### DopeMedic - "Email Address Needed"
+##### NakedApples - "Email Address Needed"
+##### S1LV4 - "Email Address Needed"
+##### OMG_Ketchup - "Email Address Needed"
 
 <img src="/assets/images/git-repo/discord.jpeg" alt="discord-logo"/><a href="https://discord.com/invite/jn6uhur">Join Us On Discord</a>
 
 <img src="/assets/images/git-repo/telegram.png" alt="telegram-logo"/><a href="https://t.me/RavencoinDev">Join Us On Telegram</a>
 
-<img src="/assets/images/git-repo/faceboook.png" alt="facebook-logo"/><a href="https://www.facebook.com/groups/RavenCoinNest">Join Us On Facebook</a>
+<img src="/assets/images/git-repo/facebook.png" alt="facebook-logo"/><a href="https://www.facebook.com/groups/RavenCoinNest">Join Us On Facebook</a>
 
 <img src="/assets/images/git-repo/mailing-list.png" alt="mailing-list-logo"/><a href="https://ravencoin.org/updates/">Sign Up For Our Mailing List</a>
 
