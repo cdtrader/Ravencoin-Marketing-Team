@@ -1,0 +1,316 @@
+[NakedApples]
+
+sorry for the delay
+Welcome to whomever is here
+
+[CDTrader]
+Hello
+
+[NakedApples]
+List of things to go over:
+
+[CDTrader]
+how did you make out with github and tasks from last meeting
+
+[CDTrader]
+https://github.com/cdtrader/Ravencoin-Marketing-Team
+I was able to grab everything that I thought was useful from the abandoned marketing git repo and integrated it into a new one.
+
+[NakedApples]
+ok perfect. is this something we are going to put on trello and git hub?
+
+[CDTrader]
+I also added the log from our last meeting and created a folder which will house marketing assignments assigned to individuals on the marketing team.
+
+[NakedApples]
+or are the files seperate from what we want on trello
+?
+
+[CDTrader]
+I think that using trello for active collaboration is a good idea and github to keep track of and house everything is the way to go.
+
+[NakedApples]
+742
+
+[CDTrader]
+That way there is no single point of failure. If something happens to one of us then the entire team can pick up and continue on by forking my github repo.
+742?
+
+[NakedApples]
+my son
+lol ignore 742
+
+[CDTrader]
+lol
+
+[NakedApples]
+ok i like your idea on using both. im sure omgketchup will add his 5 cents to that when he gets here
+let me look at youre github real quick
+
+[CDTrader]
+It just seems to make more sense since this is an open source project to begin with.
+That way we can verify our marketing team members, easily merge new ideas / assignments, and keep everything up to date.
+
+[NakedApples]
+ok so how are we with OKRs. we need to tackle awareness as its our first OKR
+
+[CDTrader]
+That is something I wanted to discuss. I went through the logs and I am unsure if we have definitive okrs right now. If so, I can integrate them into the repo.
+
+[NakedApples]
+ok lets refine our OKRs
+what were your thoughts
+so if not awareness
+did we want to narrow down to social media campaign
+?
+
+[CDTrader]
+Honestly I do not think defining them is as important right now as accomplishing certain tasks. For example I assigned myself 10 tasks that I believe will help us to get started.
+https://github.com/[CDTrader]/Ravencoin-Marketing-Team/blob/main/assignments/[CDTrader]-marketing-assignments.txt
+
+[NakedApples]
+i saw those. i believe omgketchup is working on the press kit
+
+[CDTrader]
+Do you know what they plan on putting in the press kit and what they are working on?
+
+[NakedApples]
+he should be getting out of a previous engagement soon to explain what he is putting in the kit
+
+[CDTrader]
+Sounds good.
+Something that we may want to also consider is putting together a business prospectus.
+It would help us all to have a definitive gameplan / guide book for our marketing efforts.
+Do you know if the Ravencoin Foundation already has one?
+
+[NakedApples]
+me personally would like to tackle some of the educational videos and social media tasks. i can incorporate that into my research, company outreach which i have already been doing via emails
+i can say with 99% certainty that RCF does not have one
+
+[CDTrader]
+Wow
+Scary.
+
+[NakedApples]
+however we can probably make use of the RCF roadmap
+which has key points and timelines for development
+
+[CDTrader]
+I have a lot of experience creating business prospectuses, but honestly it is a lot of work for just one person. We would need to bring together all of the foundation members and ravencoin developers to collaborate on that document. With it it will not only address the areas of focus we discussed in the previous meeting, but also give us a common plan on foundation / project growth over the next 3-5 years.
+If we intend to do strategic alliances it is a standard document we should have on file.
+
+[NakedApples]
+Ok lets add that task. i will reach out to all parties to see if we can all meet (devs, foundation, marketing)
+
+[CDTrader]
+That would be awesome.
+
+[NakedApples]
+Ok lets add that task. i will reach out to all parties to see if we can all meet (devs, foundation, marketing)
+
+[CDTrader]
+That would be awesome.
+It is probably going to take several months to develop depending on participation levels.
+
+[NakedApples]
+@[OMG_Ketchup] are you here yet?
+
+[OMG_Ketchup]
+Yeah
+I'm working but following along
+
+[NakedApples]
+ok
+
+[OMG_Ketchup]
+I think it's important to come up with KPIs so we can measure progress toward our goals
+
+[CDTrader]
+That will be included in the prospectus.
+  
+[#1RVNfan]
+Hey guys, here lurking - I was wondering if you could expound some on your email outreach as I have been attempting the same and haven't gotten a warm reception or even a reply yet
+
+[CDTrader]
+KPI is just one cog in the machine.
+
+[OMG_Ketchup]
+If we cant measure something we cant improve it, KPIs are how we measure things
+
+[CDTrader]
+I am aware. It is important, but it is also not a game plan. Just one aspect to it.
+
+[OMG_Ketchup]
+Yup. Also, I am not working on a press kit? That was someone else.
+
+[CDTrader]
+Are you familiar with creating business prospectuses [OMG_Ketchup]?
+
+[OMG_Ketchup]
+A prospectus? No. A business plan? Yes.
+But I'm not in a position to define where raven goes as a business.
+  
+[NakedApples]
+absolutely. I have had a lot of non responses and cold responses. out of the 100 companies ive reached out to via email i have had 4 actually ask for more information
+i feel its a matter of keeping at it
+
+[OMG_Ketchup]
+I want to help ravencoin achieve their existing goals by defining specific metrics to improve
+
+[#1RVNfan]
+Okay that is comforting that I haven't nearly reached that level of outreach. How do you gauge effectiveness of non-responses if at all? are you utilizing some sort of tracking pixel or other solution to see if your emails are even getting read? I worry maybe corporate spam filters are getting some of mine?
+
+[CDTrader]
+If you get a 1-10% response rate you are doing good on your email campaigns.
+It's a numbers game.
+So would you like to keep tract of the metrics for each of the marketing efforts to review their overall performance after each task's KPIs are identified 
+
+[OMG_Ketchup]?
+  
+[NakedApples]
+spam filters... i navigate around that by using my work email. i use an excel spread sheet to list the companies and the ones that have not responded i flag to reach out again in 30 days. so i end up sending a lot of emails and a lot of repeat emails. but persistence is key
+i could upload this xcel spread sheet to the git-hub
+
+[CDTrader]
+I was just going to say we should have that email list in the repo lol.
+That way there is no double-sending.
+
+[NakedApples]
+agreed
+
+[CDTrader]
+You had mentioned that you want to tackle the social media related tasks. Do you want to create / manage all of the additional social media networks that we should add, or do you want to spread out the responsibilities so you aren't spread too thin?
+
+[NakedApples]
+the latter. still seeking more voluntary help from the community. have a few people to get back to. im just starting to get familiar with social media platforms.
+videos i'm pretty good at making
+
+[CDTrader]
+I can come up with a list of social networks we should be on. Honestly the more the better in regards to SEO. Mirroring content whenever possible.
+
+[NakedApples]
+if you can make a list i will start creating
+im just getting used to the more popular ones right now
+
+[CDTrader]
+Sounds good.
+One thing I just thought of is that it would be great to have a weekly, or bi-weekly podcast. Nothing too fancy, but maybe one, or two community members and/or developers to keep the public updated on what's going on in the Ravencoin world.
+Audio podcast.
+
+[NakedApples]
+is that something you would like to champion?
+
+[CDTrader]
+Post production sure, being the star of the show, no. lol
+
+[NakedApples]
+i could again get in touch with devs or board members see if they can do like 20min interviews
+i have no problem being the interviewer
+
+[CDTrader]
+That would be awesome. We need 1-2 hard core passionate community members who love nothing more than to talk about everything ravencoin.
+
+[NakedApples]
+ok
+i'm going to try and reach out to Bruce or Tron
+because the first podcast should be with one of those guys
+
+[CDTrader]
+We can keep the public up to date on NFT auctions, development progress, showcase what we can do with RVN, and promote our community.
+
+[NakedApples]
+what platform will we use to do the podcast
+
+[CDTrader]
+Multi-platform.
+Really spread it out across both audio & video sites.
+
+[#1RVNfan]
+FB/IG/Youtube/Snapchat/Periscope/Reddit all have live-streaming capability
+probably more as well I'm not too familiar these days
+
+[CDTrader]
+There is a lot of them.
+
+[NakedApples]
+so do the podcast on one of them and repost it on the rest of them?
+
+[CDTrader]
+Yes.
+It will give us a giant SEO + SMO boost.
+The more content we pump out the better our marketing efforts will be as we gather greater audience numbers.
+We can also reach out to the major influencers in the crypto world to get on their radar too.
+
+[NakedApples]
+ok im going to add this to my list of things to do as it ties in nicely with outreach
+
+[CDTrader]
+Sounds good to me!
+
+[NakedApples]
+which tasks will you be working on
+
+[CDTrader]
+I also have access to https://elements.envato.com/
+So we can find stock footage, graphics, music, and everything we need to make it professional quality.
+
+[NakedApples]
+im all for that. DM me the login info so i can explore
+
+[CDTrader]
+Only questionable thing is me exporting into UHD formats on my ancient laptop. It does not like 4k output very well, but if we keep it 1080p we should be alright.
+
+[NakedApples]
+i dont think we need 4k lol
+
+[CDTrader]
+You don't need the login info. You can explore the site without it. Just tell me what you need and I can add it to the git repo.
+
+[NakedApples]
+ok perfect
+so next week i plan to have a rough take on an educational vide, i will post my excel spread sheet company outreach
+explore envato
+social media
+
+[CDTrader]
+We should come up with a list of educational videos to create.
+
+[NakedApples]
+contacting devs, foundation and community members
+
+[CDTrader]
+There is a lot we can make.
+For example how to buy ravencoin on each exchange that offers it would be very popular.
+
+[NakedApples]
+hone it in thou because we cant have a 6 hour video lol no one is going to watch it
+
+[CDTrader]
+I think 3-10 minute videos will do nicely.
+
+[NakedApples]
+absolutely
+thats what i was thinking
+
+[CDTrader]
+Spread out the subject matters into digestible quick reference videos.
+If you would like I can create a short list of videos I believe could greatly benefit the education efforts of the community and you can add to them if you think of more?
+
+[NakedApples]
+lets do it
+
+[CDTrader]
+Sweet!
+One thing that concerned me when I was looking through the original marketing materials is that many of the memes which were created use formats that are widely popular, but we do not have the rights to.
+If we are going to be using memes and multimedia for social media campaigns we should implement a creative commons license policy.
+That way we don't run into any lawsuit issues, because we create original content that can be shared by everyone.
+Also the licensing for the media presently in the git repo is questionable.
+
+[NakedApples]
+[CDTrader] i have to cut it short. i need to get my son in the bath. wife is still at work. finish your thoughts i will reply once i have time. love the progress towards organizing we have going on here it will help target streamline our efforts. really good job with git hub as well
+
+[CDTrader]
+Thanks!!! No problem I understand. I will review today's meeting and add it to the meeting logs. Then I will create assignment documents and a to-do list folder on everything that needs to be accomplished.
+Might not call it to-do lists, because those are similar to assignments, but things that need to be done which are not currently assigned and are up for grabs.
+Well everyone if no one else has anything they would like to add to the meeting I am going to head on out. Should be able to update the ravencoin marketing team git repo in the next couple of days with everything we talked about today. Also everyone who is interested in being on the marketing team, or is already on the marketing team. Please DM me your email address so I can add it to the official list on the git repo.
+Well everyone I guess that is a wrap for this weeks meeting then. Take care, stay amazing, and have a wonderful day!
