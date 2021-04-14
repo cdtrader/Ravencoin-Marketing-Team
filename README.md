@@ -3,7 +3,7 @@
 <img src="/assets/images/git-repo-images/ravencoin-marble.png" alt="ravencoin-marble-logo"/>
 
 <blockquote>
-<p>Welcome to the Ravencoin Marketing Team! Here you will discover everything that is currently happening with our marketing efforts for the Ravencoin community. Meetings are held every Wednesday at 4:00PM EST in Discord on the marketing server. Please feel free to reach out to us if you would like to become involved in helping our community improve education, marketing, and outreach programs for Ravencoin. </p>
+<p>Welcome to the Ravencoin Marketing Team! Here you will discover everything that is currently happening with our marketing efforts for the Ravencoin community. Meetings are held every Wednesday at 4:00PM EST in Discord on the marketing channel. Please feel free to reach out to us if you would like to become involved in helping our community improve education, marketing, and outreach programs for Ravencoin. </p>
 </blockquote> 
 
 ## Ravencoin  Websites
