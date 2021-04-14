@@ -36,8 +36,8 @@ Here is a list of all of the official websites for the Ravencoin Project.
 ##### CDTrader: cdtrader@protonmail.com
 ##### DopeMedic: "Email Address Needed"
 ##### KronkStark: robert86sampson@gmail.com
-##### NakedApples: "Email Address Needed"
-##### OMG_Ketchup: "Email Address Needed"
+##### NakedApples: micheal.dziedzic@hotmail.com
+##### OMG_Ketchup: sam.kelly.developer@gmail.com
 ##### S1LV4-: admin@getravencoin.org
 
 
