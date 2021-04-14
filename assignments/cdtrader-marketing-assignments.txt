@@ -1,12 +1,20 @@
-[Ravencoin Marketing Team Assignments - CDTrader]
+(Ravencoin Marketing Team Assignments - CDTrader)
 
-1.) Acquire more social media profiles to improve Ravencoin Social Media Optimization.
-2.) Develop a list of educational video tutorials and assign them to marketing volunteers to create. 
-3.) Provide post-production services for the completed educational video tutorials.
-4.) Create a gameplan for producing the Ravencoin press kit. 
-5.) Invent a Ravencoin Marketing Team incentive plan that allows members to earn a living.
-6.) Work with the Ravencoin Marketing Team to create a vetting process for new members. 
-7.) Maintain the Ravencoin Marketing Team GitHub repository and keep it up to date. 
-8.) Collaborate with the Ravencoin Marketing Team to create social media campaigns. 
-9.) Vote on new community submitted memes and approve them for social media campaigns.
-10.) Help coordinate the Ravencoin Marketing Team assignments.    
+[Accomplished Assignments]
+
+- Acquire more social media profiles to improve Ravencoin Social Media Optimization.
+- Develop a list of educational video tutorials to be produced for the Ravencoin Project.
+- Help coordinate the Ravencoin Marketing Team assignments.    
+- Maintain the Ravencoin Marketing Team GitHub repository and keep it up to date. 
+
+[In-Progress Assignments]
+
+- Create a gameplan for creating the Ravencoin Project Press Kit. 
+- Invent a Ravencoin Marketing Team incentive plan that allows members to earn a living.
+
+[TBD "To-Be-Determined" Assignments]
+
+- Collaborate with the Ravencoin Marketing Team to create social media campaigns. 
+- Vote on new community submitted memes and approve them for social media campaigns.
+- Work with the Ravencoin Marketing Team to create a vetting process for new members. 
+- Provide post-production services for the completed educational video tutorials.

@@ -38,6 +38,6 @@ Here is a list of all of the official websites for the Ravencoin Project.
 ##### KronkStark: "robert86sampson@gmail.com"
 ##### NakedApples: "Email Address Needed"
 ##### OMG_Ketchup: "Email Address Needed"
-##### S1LV4-: "Email Address Needed"
+##### S1LV4-: "admin@getravencoin.org"
 
 
