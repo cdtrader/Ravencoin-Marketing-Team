@@ -14,16 +14,26 @@
 ##### OMG_Ketchup: "Email Address Needed"
 ##### S1LV4-: "Email Address Needed"
 
-<img src="/assets/images/git-repo-images/discord.jpeg" alt="discord-logo"/><a href="https://discord.com/invite/jn6uhur">Join Us On Discord</a>
+## Ravencoin  Websites
 
-<img src="/assets/images/git-repo-images/github-icon.png" alt="github-logo"/><a href="https://github.com/cdtrader/Ravencoin-Marketing-Team">Join Us On GitHub</a>
+Here is a list of all of the official websites for the Ravencoin Project.
 
-<img src="/assets/images/git-repo-images/facebook.png" alt="facebook-logo"/><a href="https://www.facebook.com/groups/RavenCoinNest">Join Us On Facebook</a>
+| Official Websites: | URL: |
+| ------ | ------ |
+| ACast: | https://feeds.acast.com/public/shows/ravencoin |
+| BitChute: | https://www.bitchute.com/channel/59G1QAMq00AT/ |
+| Discord: | https://discord.com/invite/jn6uhur|
+| GitHub: | https://github.com/cdtrader/Ravencoin-Marketing-Team |
+| Facebook: | https://www.facebook.com/groups/RavenCoinNest |
+| Mailing List: | https://ravencoin.org/updates/ |
+| Mastodon: | https://mstdn.io/web/accounts/684554 |
+| Pinterest: | www.pinterest.com/ravencoinproject |
+| Project Website: | https://ravencoin.org |
+| Ravencoin Foundation: |https://ravencoin.foundation/ |
+| Rumble: | https://rumble.com/c/c-746685 |
+| Soundcloud: | https://soundcloud.com/ravencoin |
+| Telegram: | https://t.me/RavencoinDev |
+| Trello: | https://trello.com/invite/b/JMy6pyUM/b04b2440d8c805a9a3584feed3c8800d/ravencoin-marketing |
+| Tumblr: | https://www.tumblr.com/blog/ravencoin-project |
+| Vimeo: | https://mstdn.io/web/accounts/684554 |
 
-<img src="/assets/images/git-repo-images/mailing-list.png" alt="mailing-list-logo"/><a href="https://ravencoin.org/updates/">Sign Up For Our Mailing List</a>
-
-<img src="/assets/images/git-repo-images/telegram.png" alt="telegram-logo"/><a href="https://t.me/RavencoinDev">Join Us On Telegram</a>
-
-<img src="/assets/images/git-repo-images/trello.jpeg" alt="trello-logo"/><a href="https://trello.com/invite/b/JMy6pyUM/b04b2440d8c805a9a3584feed3c8800d/ravencoin-marketing">Join Us On Trello</a>
-
-<img src="/assets/images/git-repo-images/ravencoin-foundation.png" alt="ravencoin-marble-logo"/><a href="https://ravencoin.foundation/">The Ravencoin Foundation</a>
