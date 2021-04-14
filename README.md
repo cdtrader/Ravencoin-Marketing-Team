@@ -32,8 +32,10 @@ Here is a list of all of the official websites for the Ravencoin Project.
 
 ### Ravencoin Marketing Team - Current Members
 
+##### BoatsAndHoes: admin@corviato.com
 ##### CDTrader: cdtrader@protonmail.com
 ##### DopeMedic: "Email Address Needed"
+##### KronkStark: "robert86sampson@gmail.com"
 ##### NakedApples: "Email Address Needed"
 ##### OMG_Ketchup: "Email Address Needed"
 ##### S1LV4-: "Email Address Needed"
