@@ -39,5 +39,6 @@ Here is a list of all of the official websites for the Ravencoin Project.
 ##### NakedApples: micheal.dziedzic@hotmail.com
 ##### OMG_Ketchup: sam.kelly.developer@gmail.com
 ##### S1LV4-: admin@getravencoin.org
+##### Arturius-: mearturius@gmail.com
 
 
